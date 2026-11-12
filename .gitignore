@@ -1,2 +1,9 @@
-.obsidian/
+# Obsidian: 同步配置/插件/主题，仅排除界面布局状态（每次打开都会变动）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
 .DS_Store
+
+# IDE / 构建产物
+.idea/
+target/

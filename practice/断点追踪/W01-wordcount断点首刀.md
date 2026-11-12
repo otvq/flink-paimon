@@ -13,9 +13,9 @@
 
 我的预测（现在写）：
 
-- Q1：
-- Q2：
-- Q3：
+- Q1：JobMaster、ExecutionGraph、TaskExecutor
+- Q2：任务提交给JobMaster，进行任务规划，再交由TaskExecutor任务执行，输出仍然在原地
+- Q3：存在，能停住
 
 ## 2. 实测（断点后填写）
 
